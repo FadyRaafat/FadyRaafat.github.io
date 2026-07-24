@@ -1,4 +1,4 @@
 {
-  "billing_enabled": false,
+  "billing_enabled": true,
   "min_supported_version": 1
 }
